@@ -1,0 +1,5 @@
+egg
+butter
+bread
+meat
+pizza
